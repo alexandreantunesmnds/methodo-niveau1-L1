@@ -2,8 +2,9 @@
 Création d'un jeu en C (sortie terminal, aucune interface graphique) 
 
 Principe du jeu :
-Le Joueur S se déplace et doit éviter les obstacles marqués par des * et des # (météores à positions aléatoire) \n
-L'objectif étant d'arriver à la sortie O
+Le Joueur S se déplace et doit éviter les obstacles marqués par des * et des # (météores à positions aléatoire)
+
+L'objectif : Arriver à la sortie O
 
 
 ![image](https://user-images.githubusercontent.com/90969081/168390515-3e521483-87e5-42b5-a666-692875a8f19b.png)
